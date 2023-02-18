@@ -1,1 +1,1 @@
-Hey, I am Adarsh Singh . 
+Hey, I am Adarsh Singh. I am a frontend Developer. 
